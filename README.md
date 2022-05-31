@@ -18,6 +18,8 @@ Passing grade is 100. See breakdown below for more detail.
 
 **Asessment Duration**: Examinee is given 3 days to complete the assessment
 
+##### ✎ Main Note
+- Simple Ui For Design We Don't Care About Front-end Stuff in this Task
 
 
 <br>
